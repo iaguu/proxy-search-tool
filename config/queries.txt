@@ -1,0 +1,10 @@
+# queries.txt
+# Formato:
+#   engine;query;max_results;download_subdir
+# engines suportados:
+#   google -> usa Google Custom Search API (requer GOOGLE_API_KEY e GOOGLE_CX)
+#   direct -> URL direta para download/verificação
+#
+# Exemplos:
+# google;site:example.com "relatório anual";5;reports
+# direct;https://example.com/files/manual.pdf;1;manuals

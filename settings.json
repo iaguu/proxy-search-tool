@@ -1,0 +1,9 @@
+{
+  "test_url": "https://httpbin.org/ip",
+  "proxy_timeout_seconds": 4,
+  "proxy_concurrency": 20,
+  "min_successful_proxies": 5,
+  "max_validated_proxies": 50,
+  "downloads_base_dir": "downloads",
+  "user_agent": "ProxySearchTool/1.0 (+https://example.com; for personal/legit use only)"
+}
